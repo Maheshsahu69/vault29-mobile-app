@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "vault29-webapp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}

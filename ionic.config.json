@@ -1,0 +1,7 @@
+{
+  "name": "vault29-webapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
